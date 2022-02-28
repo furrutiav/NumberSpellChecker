@@ -15,7 +15,7 @@
 
 | Input         | Output     |
 |--------------|-----------|
-| a pedro lecedan beintecoches | a pedra lecedan 20 coches |
+| a pedro lecedan beintecoches | a pedro lecedan 20 coches |
 | grabriel regalo seis ogtavos y lequedaro dos ogtavos | grabriel regalo 6/8 y lequedaro 2/8 |
 | jaime aora tyene tresyento trentai ocho | jaime aora tyene 338 |
 | es dosiento sincuenta i nueve | es 259 |
